@@ -1,0 +1,14 @@
+# Raw and processed data (download TON_IoT yourself, see data/README.md)
+data/*
+!data/README.md
+*.csv
+!notebooks/corrected/results/*.csv
+*.log
+*.zip
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.venv/
+thesis_env/
