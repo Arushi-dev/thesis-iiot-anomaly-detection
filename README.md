@@ -58,4 +58,4 @@ TON_IoT datasets, UNSW Canberra. Free for academic research use.
 - Alsaedi, A., Moustafa, N., Tari, Z., Mahmood, A., & Anwar, A. (2020). TON_IoT telemetry dataset: A new generation dataset of IoT and IIoT for data-driven intrusion detection systems. *IEEE Access*, 8, 165130–165150.
 
 ## Author
-Arushi Sharma · notion.site/Arushi · github.com/Arushi-dev
+Arushi Sharma · [Portfolio](https://arushi-sharma.notion.site/Hey-there-I-am-Arushi-318d5a056b7080bea33edb8dc09f7d61) · [GitHub](https://github.com/Arushi-dev)
